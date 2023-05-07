@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou Sidney Santos</h1>
-<h3 align="center">Um apaixonado por análise de dados. Sou brasileiro</h3>
+<h3 align="center">Um apaixonado por análise de dados!</h3>
 
 - 🔭 Atualmente estou desenvolvendo projetos como o **Mini projeto de análise de dados com Python**
 
