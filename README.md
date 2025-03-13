@@ -23,4 +23,4 @@ Aqui você encontra alguns dos meus projetos voltados para **dados, machine lear
 
 📫 **Contato:**  
 - [LinkedIn](https://www.linkedin.com/in/sidney-santos-analista-de-dados/) 
-- [E-mail](sidneysantosdatascientist@gmail.com)  
+-  Email: sidneysantosdatascientist@gmail.com
