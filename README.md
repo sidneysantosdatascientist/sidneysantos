@@ -1,22 +1,26 @@
-<h1 align="center">Oi 👋, Eu sou Sidney Santos</h1>
-<h3 align="center">Um apaixonado por análise de dados!</h3>
+# 👋 Olá! Eu sou Sidney Santos
 
-- 🔭 Atualmente estou desenvolvendo projetos como o **Mini projeto de análise de dados com Python**
 
-- 🌱 Atualmente estou aprendendo **Excel, SQL, Python e Power Bi**
 
-- 💬 Me pergunte sobre **Excel, SQL, Python e Power Bi**
+💡 **Sobre mim:**  
+Sou um profissional com experiência em **Análise de Dados** e **Engenharia de Dados**, especializado na criação e automação de **ETL**, integração de múltiplas fontes de dados e otimização de bancos de dados. Tenho habilidades na geração de **insights estratégicos** por meio de relatórios e dashboards interativos, auxiliando na **tomada de decisão** empresarial.  
 
-- 📫 Você me encontra através do email **sidneysantosdatascientist@gmail.com**
+🚀 **Experiência:**  
+- **Analista de Dados na Orb Music** → Desenvolvimento e automação de pipelines de dados com **Python**, otimização de fluxos de dados e criação de relatórios em **Power BI**.  
+- **UX Designer na Union Group** → Aplicação de **Lean UX**, **Scrum** e **Figma** em projetos práticos de experiência do usuário.  
 
-- 📄 Saiba sobre minha experiências no link [https://www.linkedin.com/in/sidney-santos-analista-de-dados/](https://www.linkedin.com/in/sidney-santos-analista-de-dados/)
+🔧 **Habilidades Técnicas:**  
+- **Linguagens:** Python, SQL
+- **Ferramentas & Tecnologias:** Power BI, ETL, Bancos de Dados, Machine Learning    
+- **Conhecimentos:** Estatística, Matemática Aplicada, Análise Preditiva, Modelagem de Dados  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sidney-santos-analista-de-dados/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sidney-santos-analista-de-dados/" height="30" width="40" /></a>
-</p>
+📚 **Formação Acadêmica:**  
+- **Bacharelado em Ciências Contábeis** - Universidade Federal Fluminense  
+- **Pós-graduação em Ciência de Dados**  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+💻 **Projetos e Contribuições:**  
+Aqui você encontra alguns dos meus projetos voltados para **dados, machine learning e inteligência de negócios**. Fique à vontade para explorar! 🚀  
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sidneysantosdatascientist&show_icons=true&locale=en&layout=compact" alt="sidneysantosdatascientist" /></p>
+📫 **Contato:**  
+- [LinkedIn]([Seu_Linkedin](https://www.linkedin.com/in/sidney-santos-analista-de-dados/))  
+- [E-mail](sidneysantosdatascientist@gmail.com)  
