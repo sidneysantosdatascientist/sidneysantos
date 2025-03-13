@@ -22,5 +22,5 @@ Sou um profissional com experiência em **Análise de Dados** e **Engenharia de 
 Aqui você encontra alguns dos meus projetos voltados para **dados, machine learning e inteligência de negócios**. Fique à vontade para explorar! 🚀  
 
 📫 **Contato:**  
-- [LinkedIn]([Seu_Linkedin](https://www.linkedin.com/in/sidney-santos-analista-de-dados/))  
+- [LinkedIn](https://www.linkedin.com/in/sidney-santos-analista-de-dados/))  
 - [E-mail](sidneysantosdatascientist@gmail.com)  
